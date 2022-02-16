@@ -10,11 +10,14 @@ I used their model and added the Differential Downside Deviation Return Reward F
 > Moody, J. and M. Saffell (2001). ‘Learning to trade via direct reinforcement’. In: IEEE Transactions
 > on Neural Networks 12.4, pp. 875–889. doi: 10.1109/72.935097.
 
+These are the two added evaluation metrics. 
+Sharpe ratio:
 ![image](https://github.com/Pumuckl-TB/Reinforcement-Learning-for-Trading/blob/main/SR.png)
+
+Differential Downside Deviation Return
 ![image](https://github.com/Pumuckl-TB/Reinforcement-Learning-for-Trading/blob/main/DDR1.png)
 ![image](https://github.com/Pumuckl-TB/Reinforcement-Learning-for-Trading/blob/main/DDR2.png)
 
-![alt text](https://github.com/Pumuckl-TB/Reinforcement-Learning-for-Trading/blob/main/DDR1.png = 250x250)
 
 
 # Dependencies
@@ -54,19 +57,3 @@ The performance of this algorithmic trading policy will be automatically display
 
 
 
-# Citation
-
-If you make use of this experimental code, please cite the associated research paper:
-
-"
-@inproceedings{Theate2020,
-  title={An Aplication of Deep Reinforcement Learning to Algorithmic Trading},
-  author={Theate, Thibaut and Ernst, Damien},
-  year={2020}
-}
-```
-
-"
-Moody, J. and M. Saffell (2001). ‘Learning to trade via direct reinforcement’. In: IEEE Transactions
-on Neural Networks 12.4, pp. 875–889. doi: 10.1109/72.935097.
-"
