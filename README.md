@@ -14,7 +14,7 @@ I used their model and added the Differential Downside Deviation Return Reward F
 ![image](https://github.com/Pumuckl-TB/Reinforcement-Learning-for-Trading/blob/main/DDR1.png = 250x250)
 ![image](https://github.com/Pumuckl-TB/Reinforcement-Learning-for-Trading/blob/main/DDR2.png = 250x250)
 
-![alt text](https://github.com/Pumuckl-TB/Reinforcement-Learning-for-Trading/blob/main/DDR1.png)
+![alt text](https://github.com/Pumuckl-TB/Reinforcement-Learning-for-Trading/blob/main/DDR1.png = 250x250)
 
 
 # Dependencies
