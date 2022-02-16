@@ -5,11 +5,11 @@ This code is largely based on following research paper.
 The link to their original github: https://github.com/ThibautTheate/An-Application-of-Deep-Reinforcement-Learning-to-Algorithmic-Trading
 
 # Contributions
-I used their model and added the Differential Downside Deviation Return Reward Function introduced by Moody and Saffell 2001 
-"
-Moody, J. and M. Saffell (2001). ‘Learning to trade via direct reinforcement’. In: IEEE Transactions
-on Neural Networks 12.4, pp. 875–889. doi: 10.1109/72.935097.
-"
+I used their model and added the Differential Downside Deviation Return Reward Function introduced by Moody and Saffell 2001 as an evaluation metric as well as the sharpe ratio. 
+
+> Moody, J. and M. Saffell (2001). ‘Learning to trade via direct reinforcement’. In: IEEE Transactions
+> on Neural Networks 12.4, pp. 875–889. doi: 10.1109/72.935097.
+
 
 
 
