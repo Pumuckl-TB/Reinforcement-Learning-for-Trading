@@ -10,7 +10,9 @@ I used their model and added the Differential Downside Deviation Return Reward F
 > Moody, J. and M. Saffell (2001). ‘Learning to trade via direct reinforcement’. In: IEEE Transactions
 > on Neural Networks 12.4, pp. 875–889. doi: 10.1109/72.935097.
 
-
+![image](https://github.com/Pumuckl-TB/Reinforcement-Learning-for-Trading/blob/main/SR.png = 250x250)
+![image](https://github.com/Pumuckl-TB/Reinforcement-Learning-for-Trading/blob/main/DDR1.png = 250x250)
+![image](https://github.com/Pumuckl-TB/Reinforcement-Learning-for-Trading/blob/main/DDR2.png = 250x250)
 
 
 # Dependencies
